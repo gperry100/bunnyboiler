@@ -53,6 +53,7 @@ target/
 # ----------------- #
 .idea
 .iml
+*.iml
 
 # --------------- #
 # MAC-specific #
